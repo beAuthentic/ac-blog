@@ -1,0 +1,64 @@
+.video-background {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  height: 0;
+}
+
+.video-background iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+th {
+  background-color: #2f2f2f;
+}
+table, th, td {
+  border-bottom: 1px solid #333;
+  border-collapse: collapse;
+  padding: 5px;
+}
+
+tr:nth-child(odd) {
+  background-color: #3f3f3f;
+}
+
+h5 {
+  margin-bottom: 0;
+}
+
+section > .content {
+  max-width: var(--contentWidth);
+  display: flex;
+  flex-direction: column;
+}
+
+section .content .text > p:first-child {
+  font-size: 25px;
+  line-height: 1.3;
+}
+
+ol > li > ul > li {
+  list-style-type: disclosure-closed;
+}
+ol > li > ol > li {
+  list-style: lower-alpha;
+}
+ul > li > ul > li {
+  list-style-type: square;
+}
+
+.tags small {
+  font-family: var(--secondaryFont);
+  color: var(--darkColor);
+}
+
+.source {
+  color: var(--darkColor);
+  font-size: 13px;
+}
+.source > * {
+  margin-left: 10px;
+}
