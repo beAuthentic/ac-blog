@@ -23,6 +23,12 @@
       "purpose": "maskable"
     },
     {
+      "src": "assets/logo-96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
       "src": "assets/logo-144.png",
       "sizes": "144x144",
       "type": "image/png",
@@ -41,7 +47,7 @@
       "purpose": "maskable"
     },
     {
-      "src": "assets/logo.svg",
+      "src": "assets/logo-icon.svg",
       "type": "image/png",
       "sizes": "any"
     }
