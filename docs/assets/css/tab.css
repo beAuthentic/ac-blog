@@ -1,8 +1,6 @@
 html {
   --bg: whitesmoke;
   --fg: #444;
-  --cardWidth: 170px;
-  --cardHeight: 450px;
   --fontSize: 16px;
   --c1: #005F73;
   --c2: #03989E;
@@ -119,6 +117,9 @@ html {
 
 .control .tags {
   font-family: var(--secondaryFont);
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
 }
 
 .c1 {

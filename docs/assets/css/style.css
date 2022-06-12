@@ -7,7 +7,7 @@ html {
   --secondaryColor: skyblue;
   --linkColor: deeppink;
   --primaryColor: aliceblue;
-  --bgColor: #444;
+  --bgColor: #333;
   --fgColor: ivory;
   --darkColor: gray;
   --contentWidth: 600px;
@@ -123,6 +123,10 @@ blockquote p {
 
 .spacer {
   margin-top: 100px;
+}
+
+.spacer-left {
+  margin-left: 10px;
 }
 
 .middle-spacer {
