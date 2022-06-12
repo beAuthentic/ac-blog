@@ -73,6 +73,8 @@ ul > li > ul > li {
 }
 
 .paginator-container {
+  max-width: var(--contentWidth);
+  width: 100%;
   display: flex;
   justify-content: space-between;
 }
