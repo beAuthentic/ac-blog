@@ -4,7 +4,7 @@
   <body>
     {% include post/header.html %}
 
-    <section class="spacer center-align">
+    <section class="center-align">
       <div class="content">
         {% if page.image %}
         <img width="100%" src="{{ page.image }}" alt="{{ page.source }}" />
@@ -13,6 +13,8 @@
         <h1>{{ page.title }}</h1>
         <h5>{{ page.writer }}</h5>
 
+        <div class="text">{{ page.content }}</div>
+
         {% if page.tags %}
         <div class="tags">
           {% for tag in page.tags %}
@@ -20,8 +22,6 @@
           {% endfor %}
         </div>
         {% endif %}
-
-        <div class="text">{{ page.content }}</div>
 
         {% if page.source and page.source_url %}
         <div class="middle-align source">
@@ -35,6 +35,7 @@
       </div>
     </section>
 
+    {% include post/paginator.html %}
     {% include foot.html %}
   </body>
 </html>

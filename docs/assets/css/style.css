@@ -4,13 +4,15 @@ html {
   --secondaryFont: 'Teko', sans-serif;
   --monoFont: 'Share Tech Mono', monospace;
   --textFont: 'Lexend', sans-serif;
+  --primaryColor: aliceblue;
   --secondaryColor: skyblue;
   --linkColor: deeppink;
-  --primaryColor: aliceblue;
   --bgColor: #333;
   --fgColor: ivory;
   --darkColor: gray;
   --contentWidth: 600px;
+  --themeColor: #ffc100;
+  --tertiaryColor: #2cdd88;
 }
 
 body {
@@ -144,4 +146,14 @@ blockquote p {
 .footer, .footer a {
   color: var(--darkColor);
   font-size: 14px;
+}
+
+.pull-left, .pull-right {
+  color: var(--darkColor);
+  display: flex;
+  align-items: end;
+  justify-content: flex-end;
+}
+.pull-left {
+  flex-direction: row-reverse;
 }
