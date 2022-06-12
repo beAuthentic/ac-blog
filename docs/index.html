@@ -18,8 +18,8 @@ layout: index
       {% endif %}
       <div class="header">{{ post.writer }}</div>
       <div class="body">
-        {% if post.source_img %}
-          <img src="{{ post.source_img }}" />
+        {% if post.image %}
+          <img src="{{ post.image }}" />
         {% endif %}
         <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
         {{ post.excerpt }}

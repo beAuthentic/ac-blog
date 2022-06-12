@@ -5,8 +5,8 @@ writer: Ahyoung Hwang
 color: c1
 icon: bolt
 tags: pandemic engagement educator
+image: "https://images.pexels.com/photos/459971/pexels-photo-459971.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 source: Chronicle
-source_img: "https://images.pexels.com/photos/459971/pexels-photo-459971.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 source_url: "https://www.chronicle.com/article/how-to-solve-the-student-disengagement-crisis"
 ---
 

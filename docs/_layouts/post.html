@@ -1,20 +1,13 @@
 <!doctype html>
 <html>
-  <head>
-    {% include head.html %}
-    <title>
-      {{ site.title }}: {{ page.title }}
-    </title>
-    <link href="{{ 'assets/css/style.css' | relative_url }}" rel="stylesheet"/>
-    <link href="{{ 'assets/css/md.css' | relative_url }}" rel="stylesheet"/>
-  </head>
+  {% include head.html %}
   <body>
     {% include post/header.html %}
 
     <section class="spacer center-align">
       <div class="content">
-        {% if page.source_img %}
-          <img width="100%" src="{{ page.source_img }}" alt="{{ page.source }}" />
+        {% if page.image %}
+        <img width="100%" src="{{ page.image }}" alt="{{ page.source }}" />
         {% endif %}
 
         <h1>{{ page.title }}</h1>

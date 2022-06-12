@@ -1,3 +1,6 @@
 title: AskClass News
+description: "News and discussions on learning and education"
+site_url: https://news.askclass.com
+theme_color: "#ffc100"
 session_tag: Post
 excerpt_separator: <!--more-->
