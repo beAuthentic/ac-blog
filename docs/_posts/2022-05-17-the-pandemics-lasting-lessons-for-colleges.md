@@ -3,7 +3,6 @@ layout: post
 title: "The Pandemic's Lasting Lessons for Colleges, From Academic Innovation Leaders"
 writer: Ahyoung Hwang
 color: c3
-icon: bolt
 tags: pandemic educator classroom student
 image: "https://images.pexels.com/photos/1136465/pexels-photo-1136465.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 source: EdSurge

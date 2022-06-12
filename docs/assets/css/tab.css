@@ -36,26 +36,26 @@ html {
   font-family: var(--specialFont);
 }
 .top-bar {
-  margin: -23px 0 0 5px;
-  font-size: 18px;
+  margin: -21px 0 0 5px;
+  font-size: 15px;
   text-align: left;
 }
 
 .tab {
   position: absolute;
-  top: -15px;
+  top: -10px;
   right: 3px;
-  font-size: 50px;
-  line-height: 43px;
+  font-size: 30px;
+  line-height: 18px;
   text-align: right;
 }
 .tab small {
   display: block;
-  font-size: 21px;
+  font-size: 12px;
 }
 
 .tab .material-icons {
-  font-size: 32px;
+  font-size: 24px;
 }
 
 .header {
@@ -105,6 +105,7 @@ html {
 .control a {
   text-decoration: none;
   font-size: var(--fontSize);
+  display: contents;
 }
 
 .control a.button {

@@ -14,7 +14,10 @@ layout: index
         {{ post.date | date: "%b %d, %Y" }}
       </div>
       {% if post.icon %}
-        <div class="tab"><span class="material-icons">{{ post.icon }}</span></div>
+       <div class="tab"><span class="material-icons">{{ post.icon }}</span></div>
+      {% else %}
+        {% assign words = post.content | strip_html | strip_newlines | strip | split: " " %}
+        <div class="tab">{{ words.size }}<small>words</small></div>
       {% endif %}
       <div class="header">{{ post.writer }}</div>
       <div class="body">
@@ -26,7 +29,7 @@ layout: index
       </div>
       <div class="control">
         <a href="{{ post.url }}">
-          <span class="material-icons">article</span>
+          <span class="middle-align material-icons">article</span>
         </a>
         {% if post.tags %}
           <div class="tags">
