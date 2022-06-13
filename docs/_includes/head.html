@@ -4,7 +4,7 @@
 
   <link href="{{ 'assets/css/style.css' |  relative_url }}" rel="stylesheet" />
 
-  {% if page.title %}
+  {% if page.collection == 'posts' %}
   <link href="{{ 'assets/css/md.css' | relative_url }}" rel="stylesheet" />
   {% else %}
   <link href="{{ 'assets/css/grid.css' |  relative_url }}" rel="stylesheet" />
