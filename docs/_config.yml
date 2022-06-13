@@ -1,6 +1,7 @@
 title: AskClass News
 description: "News and discussions on learning and education"
 site_url: https://news.askclass.com
+twitter: askclass_com
 theme_color: "#ffc100"
 excerpt_separator: <!--more-->
 collections_dir: content
