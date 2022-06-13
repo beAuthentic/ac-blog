@@ -1,6 +1,10 @@
 <div class="center-align">
   <a href="/">
-    <img src="/assets/logo-icon.svg" width="70" title="{{ site.title }}"/>
+    <img src="/assets/{{ include.image | default: 'logo-icon.svg' }}"
+      width="{{ include.size | default: 70 }}"
+      title="{{ site.title }}"/>
   </a>
-  <h3 class="special">{{ site.title }}</h3>
+  {% unless include.notitle %}
+    <h3 class="special">{{ site.title }}</h3>
+  {% endunless %}
 </div>
