@@ -1,4 +1,9 @@
-docs/_site
+_site
 .jekyll-cache/
 jekyll.sh
 *.swp
+.bundle/
+vendor/
+.sass-cache
+.jekyll-cache/
+.jekyll-metadata
