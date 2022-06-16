@@ -1,10 +1,53 @@
 remote_theme: beAuthentic/askclass-news-theme
 #theme: askclass-news-theme
 
+title: "AskClass News"
+description: >
+  We are exploring the intersection between education and technology;
+  how innovations in cross-disciplinary learning and collaboration
+  will change the trajectory of our society toward love for
+  humanity and appreciation of life.
+
+acn:
+  date_format: "%b %d, %Y"
+  short_name: "AC News"
+  color:
+    theme: "#ffc100"
+    bg: "#222"
+  url: "https://news.askclass.com"
+  categories:
+    - education
+  social:
+    twitter: "askclass_com"
+  logo:
+    image: "logo-icon.svg"
+    size: 70
+    alt_image: "logo.svg"
+    alt_size: 200
+    sizes: [ 48, 96, 144, 192, 300, 512 ]
+  meta:
+    apple_icon: "logo-300.png"
+    og_image: "logo-square-300.png"
+    shortcut:
+      favicon: "favicon.ico"
+      type: "image/png"
+      image: "logo-96.png"
+  footer:
+    - icon: "copyright"
+      href: "https://askclass.com"
+      text: "AskClass"
+    - icon: "toys"
+      href: "https://app.askclass.com"
+      text: "Icebreakers"
+  font_families:
+    - Teko
+    - Open+Sans
+    - Josefin+Sans
+    - Share+Tech+Mono
+    - Material+Icons
+
 collections_dir: content
 collections:
   writers:
     output: true
 
-exclude:
-  - jekyll.sh
