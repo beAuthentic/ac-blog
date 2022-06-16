@@ -1,5 +1,5 @@
-theme: askclass-news-theme
 remote_theme: beAuthentic/askclass-news-theme
+theme: askclass-news-theme
 
 collections_dir: content
 collections:
