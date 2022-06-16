@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Effect of social media use on learning, social interactions, and sleep duration among university students"
+title: "Effect of Social Media Use on Learning, Social Interactions, and Sleep Duration Among University Students"
 category: Jane_Tran
 color: c6
 tags: social media effect academic
