@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Effect of Social Media Use on Learning, Social Interactions, and Sleep Duration Among University Students"
+title: "One Percent of University Student Use Social Media for Academic Purposes"
 category: Jane_Tran
 color: c6
 tags: social-media academic health interaction
