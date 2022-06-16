@@ -4,7 +4,7 @@ title: "Effect of Social Media Use on Learning, Social Interactions, and Sleep D
 category: Jane_Tran
 color: c6
 tags: social-media academic health interaction
-image: "https://images.pexels.com/photos/3367850/pexels-photo-3367850.jpeg?cs=srgb&dl=pexels-mikotoraw-photographer-3367850.jpg&fm=jpg"
+image: "https://images.pexels.com/photos/3367850/pexels-photo-3367850.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
 source: ScienceDirect
 source_url: https://www.sciencedirect.com/science/article/pii/S1319562X21000103
 ---
