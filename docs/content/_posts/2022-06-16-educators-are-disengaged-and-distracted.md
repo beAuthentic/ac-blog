@@ -28,7 +28,7 @@ In that sense, Shuck shares three questions to employees that help leaders under
 <b>2)</b> Do they feel supported by my coworkers?
 </p>
 <p>
-<b>3)</b> do they perceive their work as meaningful?
+<b>3)</b> Do they perceive their work as meaningful?
 </p>
 <p>
 With these aspects in mind, it makes me conclude that prioritizing communication within a community is the ultimate key to create a better and healthier culture in any type of environment.
