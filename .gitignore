@@ -1,6 +1,6 @@
 _site
 .jekyll-cache/
-jekyll.sh
+runme.sh
 *.swp
 .bundle/
 vendor/
