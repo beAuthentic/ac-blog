@@ -18,5 +18,5 @@ Teacher Stephanie Masson from Northwestern State University says “Students see
 </p>
 <p>
 COVID has severely limited the amount of interaction that students had in class so much that it's become an expectation for many to not even try to talk to peers.
-Many students waiting for the end of virtual "learning" found themselves severely disappointed when the "normal" they expected was not found.
+Many students waiting for the end of virtual "learning" found themselves severely disappointed when the "normal" that they expected was not found.
 </p>
