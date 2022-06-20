@@ -15,4 +15,4 @@ This article reveals how university students make use of social networks and how
 The survey result shows 99% students overuse social media for non-academic purpose.
 Most students do not know how to take advantage of social networks for beneficial purposes and have not fully explored the functions of social networks.
 These unconscious addictions distract them from school performance, poor social skills, and damage to their physical and mental health.
-Recognize these consequences and educating every individual may prevent the risk of a harmful lifestyle...
+Recognize these consequences and educating every individual may prevent the risk of a harmful lifestyle.
