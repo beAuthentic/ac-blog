@@ -2,7 +2,7 @@
 layout: post
 title: "A Glimpse Into A Freshman Pandemic Year"
 category: Jianwen_Wu
-color: c4
+color: c10
 tags: pandemic school mental-health students college
 image: "https://admissions.ucsc.edu/sites/default/files/styles/hero_banner_mobile/public/2021-08/Sammy%20Mask%20Laptop.jpeg?itok=xsabyLJ0"
 ---
