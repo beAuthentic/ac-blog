@@ -24,7 +24,7 @@ In a virtual learning environment, Manville said:
 
 > Your voice has to have more energy. Have fun. Laugh. 
 
-> Be a little entertaining. You need to bring them in because they’re all by themselves in front of a screen. 
+> Be a little entertaining. You need to bring them in because they’re all by themselves in front of a screen.
 
 **2 . Make students feel welcome and connected immediately**
 
