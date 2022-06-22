@@ -13,7 +13,7 @@ This article explains the **four variables** that lead to lasting **friendships*
 <!--more-->
 
 The Friendship Formula is as follows: <br />
-$$ Friendship = Proximity x (Frequency + Duration) x Intensity $$
+$$ Friendship = Proximity * (Frequency + Duration) * Intensity $$
 
 ## Proximity: 
 For a friendship to grow, it requires close proximity between parties. The author stresses the importance of a relaxed, "nonthreatening environment," so that neither party feels the desire to withdraw. <br />
