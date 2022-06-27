@@ -12,24 +12,17 @@ source_url: https://www.edsurge.com/news/2022-02-21-educators-are-disengaged-and
 This piece summarizes an article by EdSurge which answers the question: How can we re-engage our educators?
 <!--more-->
 
-<p>
-This article brings up the issue of disengagement from educators while addressing the necessity of campus leaders to create a better and healthier workplace culture to overcome the current situation. It is true that students have suffered incredibly with the pandemic and how that changed their way to go to school and learn. However, with educators, this transition wasn’t easy either, and in this article, an interview with Brad Shuck – professor and reference in employee engagement – helps us answer the question: <i>how to effectively re-engage faculty?</i>
-</p>
-<p>
+This article brings up the issue of disengagement from educators while addressing the necessity of campus leaders to create a better and healthier workplace culture to overcome the current situation. It is true that students have suffered incredibly with the pandemic and how that changed their way to go to school and learn. However, with educators, this transition wasn’t easy either, and in this article, an interview with Brad Shuck – professor and reference in employee engagement – helps us answer the question:
+### How to effectively re-engage faculty?
+
 The key part of the interview is when it addresses the connection between workplace culture and engagement. Shuck stresses that creating a culture that prioritizes employees’ feelings around inclusion, belonging, and equity is the most important factor that will lead to higher levels of engagement.
-</p>
-<p>
+
 In that sense, Shuck shares three questions to employees that help leaders understand their sense of engagement.
-</p>
-<p>
-<b>1)</b> Do they feel supported by my supervisor?
-</p>
-<p>
-<b>2)</b> Do they feel supported by my coworkers?
-</p>
-<p>
-<b>3)</b> Do they perceive their work as meaningful?
-</p>
-<p>
+
+1. Do they feel supported by my supervisor?
+
+2. Do they feel supported by my coworkers?
+
+3. Do they perceive their work as meaningful?
+
 With these aspects in mind, it makes me conclude that prioritizing communication within a community is the ultimate key to create a better and healthier culture in any type of environment.
-</p>
