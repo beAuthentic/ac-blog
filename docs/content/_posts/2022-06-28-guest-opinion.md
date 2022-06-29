@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Guest Opinion"
+title: "Ways to Increase Attendance in the Post-pandemic Classrooms"
 category: Edison_Luu
 color: c10
 tags: classroom attendance motivation
@@ -37,4 +37,4 @@ Attendance has traditionally been an extrinsic motivator. The online modality ha
 
 [Bowen, 2022]: https://barbihoneycutt.com/pages/conference
 
-[AskClass]: https://askclass.org/
+[AskClass]: https://askclass.com/
