@@ -1,9 +1,8 @@
 ---
-layout: post
 title: "How to Solve the Student-Disengagement Crisis"
 color: c1
 category: Ahyoung_Hwang
-tags: pandemic engagement educator
+tags: pandemic engagement educators
 image: "https://images.pexels.com/photos/459971/pexels-photo-459971.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 source: Chronicle
 source_url: "https://www.chronicle.com/article/how-to-solve-the-student-disengagement-crisis"

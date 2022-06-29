@@ -1,9 +1,8 @@
 ---
-layout: post
 title: "As Student Engagement Falls, Colleges Wonder: ‘Are We Part of the Problem?’"
 category: Ahyoung_Hwang
-color: c7
-tags: pandemic students school colleges
+color: c5
+tags: pandemic students schools colleges
 image: https://images.pexels.com/photos/261909/pexels-photo-261909.jpeg?cs=srgb&dl=pexels-pixabay-261909.jpg&fm=jpg
 source: EdSurge
 source_url: https://www.edsurge.com/news/2022-06-08-as-student-engagement-falls-colleges-wonder-are-we-part-of-the-problem

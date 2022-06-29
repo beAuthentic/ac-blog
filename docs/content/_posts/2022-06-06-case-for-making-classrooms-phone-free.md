@@ -1,9 +1,8 @@
 ---
-layout: post
 title: "The Case for Making Classrooms Phone-Free"
 category: Ahyoung_Hwang
-color: c3
-tags: classroom students teachers technology
+color: c4
+tags: classroom students teachers edtech social-media
 image: https://images.pexels.com/photos/267447/pexels-photo-267447.jpeg?cs=srgb&dl=pexels-pixabay-267447.jpg&fm=jpg
 source: EdSurge
 source_url: https://www.edsurge.com/news/2022-06-06-the-case-for-making-classrooms-phone-free
