@@ -4,4 +4,5 @@ collections_dir: content
 collections:
   writers:
     output: true
-
+  hashtags:
+    output: true

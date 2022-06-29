@@ -1,5 +1,5 @@
-remote_theme: beAuthentic/askclass-news-theme
-# theme: askclass-news-theme
+#remote_theme: beAuthentic/askclass-news-theme
+theme: askclass-news-theme
 
 title: "AskClass News"
 description: >
@@ -62,5 +62,23 @@ collections_dir: content
 collections:
   writers:
     output: true
+  hashtags:
+    output: true
 
+ignore_theme_config: false
 excerpt_separator: "<!--more-->"
+permalink: /:year/:month/:day/:title
+
+defaults:
+  - scope:
+      type: "hashtags"
+    values:
+      layout: "hashtag"
+  - scope:
+      type: "writers"
+    values:
+      layout: "writer"
+  - scope:
+      type: "posts"
+    values:
+      layout: "post"
