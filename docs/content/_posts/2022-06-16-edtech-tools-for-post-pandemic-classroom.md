@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EdTech Tools for the Post Pandemic Classroom"
+title: "EdTech Tools for the Post-pandemic Classroom"
 category: Edison_Luu
 color: c10
 tags: edtech-tools classroom engagement
