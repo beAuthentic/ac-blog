@@ -1,5 +1,4 @@
 ---
-layout: writer
 size: 100
 style: center
 image: https://i.imgur.com/dy36ae3.jpeg

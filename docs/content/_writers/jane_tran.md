@@ -1,5 +1,4 @@
 ---
-layout: writer
 size: 100
 style: center
 image: "https://avatars.githubusercontent.com/u/66888829?v=4"

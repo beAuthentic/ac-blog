@@ -1,5 +1,4 @@
 ---
-layout: writer
 size: 100
 style: center
 image : https://cdn.discordapp.com/attachments/508770830990442496/988553843950370826/PXL_20220601_215938031.jpg
