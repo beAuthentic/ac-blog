@@ -3,7 +3,8 @@ title: "The Mathematics of Friendship"
 color: c8
 category: Andy_Mangal
 tags: friendship classroom
-image: "https://images.pexels.com/photos/1974927/pexels-photo-1974927.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+thumb: "https://images.pexels.com/photos/1974927/pexels-photo-1974927.jpeg?auto=compress&cs=tinysrgb&w=350"
+image: "https://images.pexels.com/photos/1974927/pexels-photo-1974927.jpeg?auto=compress&cs=tinysrgb&w=600"
 source: PsychologyToday.com
 source_url: https://www.psychologytoday.com/us/blog/let-their-words-do-the-talking/201911/the-friendship-formula
 ---

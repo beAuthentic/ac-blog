@@ -3,7 +3,8 @@ title: "EdTech Tools for the Post-pandemic Classroom"
 category: Edison_Luu
 color: c9
 tags: edtech classroom engagement
-image: https://images.pexels.com/photos/8199159/pexels-photo-8199159.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+thumb: https://images.pexels.com/photos/8199159/pexels-photo-8199159.jpeg?auto=compress&cs=tinysrgb&w=350
+image: https://images.pexels.com/photos/8199159/pexels-photo-8199159.jpeg?auto=compress&cs=tinysrgb&w=600
 ---
 This article demonstrates practical tools along with principles that will redefine the classroom experience and enhance student engagement.
 <!--more-->

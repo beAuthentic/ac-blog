@@ -3,7 +3,8 @@ title: "A Look Into Student Disengagement"
 category: Nathan_Wong
 color: c2
 tags: pandemic schools mental-health engagement
-image: "https://images.pexels.com/photos/207691/pexels-photo-207691.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+thumb: "https://images.pexels.com/photos/207691/pexels-photo-207691.jpeg?auto=compress&cs=tinysrgb&w=350"
+image: "https://images.pexels.com/photos/207691/pexels-photo-207691.jpeg?auto=compress&cs=tinysrgb&w=600"
 source: Chronicle
 source_url: https://www.chronicle.com/article/a-stunning-level-of-student-disconnection
 ---

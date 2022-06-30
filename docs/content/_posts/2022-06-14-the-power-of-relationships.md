@@ -3,7 +3,8 @@ title: "The Power of Relationships"
 color: c10
 category: Thomas_Fujimoto
 tags: pandemic engagement educators
-image: "https://images.pexels.com/photos/8544932/pexels-photo-8544932.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+thumb: "https://images.pexels.com/photos/8544932/pexels-photo-8544932.jpeg?auto=compress&cs=tinysrgb&w=350"
+image: "https://images.pexels.com/photos/8544932/pexels-photo-8544932.jpeg?auto=compress&cs=tinysrgb&w=600"
 ---
 My personal testimony of how intentional gestures from my High School chemistry teacher translated into an improve learning environment.
 <!--more-->

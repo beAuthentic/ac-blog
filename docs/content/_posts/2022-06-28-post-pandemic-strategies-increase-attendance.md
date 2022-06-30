@@ -3,7 +3,8 @@ title: "Post-pandemic Strategies for Prospering Classroom Attendance"
 category: Edison_Luu
 color: c9
 tags: classroom motivation edtech pandemic
-image: https://images.pexels.com/photos/8850706/pexels-photo-8850706.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+thumb: https://images.pexels.com/photos/8850706/pexels-photo-8850706.jpeg?auto=compress&cs=tinysrgb&w=350
+image: https://images.pexels.com/photos/8850706/pexels-photo-8850706.jpeg?auto=compress&cs=tinysrgb&w=600
 ---
 Give students reasons to attend, here are 3 practical methods to motivate them.
 <!--more-->

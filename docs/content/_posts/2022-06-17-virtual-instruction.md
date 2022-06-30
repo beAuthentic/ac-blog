@@ -3,7 +3,8 @@ title : "Virtual Instruction Is Here to Stay"
 color: c1
 category: Lam_Tran
 tags: edtech educators
-image: "https://images.pexels.com/photos/5212337/pexels-photo-5212337.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+thumb: "https://images.pexels.com/photos/5212337/pexels-photo-5212337.jpeg?auto=compress&cs=tinysrgb&w=350"
+image: "https://images.pexels.com/photos/5212337/pexels-photo-5212337.jpeg?auto=compress&cs=tinysrgb&w=600"
 source: EducationWeek
 source_url: https://www.edweek.org/technology/virtual-instruction-is-here-to-stay-here-are-7-tips-for-doing-it-well/2022/04
 ---

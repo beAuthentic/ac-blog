@@ -3,7 +3,8 @@ title: "One Percent of University Student Use Social Media for Academic Purposes
 category: Jane_Tran
 color: c6
 tags: social-media mental-health
-image: "https://images.pexels.com/photos/3367850/pexels-photo-3367850.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+thumb: "https://images.pexels.com/photos/3367850/pexels-photo-3367850.jpeg?auto=compress&cs=tinysrgb&w=350"
+image: "https://images.pexels.com/photos/3367850/pexels-photo-3367850.jpeg?auto=compress&cs=tinysrgb&w=600"
 source: ScienceDirect
 source_url: https://www.sciencedirect.com/science/article/pii/S1319562X21000103
 ---

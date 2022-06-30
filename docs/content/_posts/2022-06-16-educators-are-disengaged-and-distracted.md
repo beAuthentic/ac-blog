@@ -3,7 +3,8 @@ title: "Creating a Better Workplace Culture Will Bring Your Faculty Back"
 category: Julia_Bruno
 color: c3
 tags: teachers engagement mental-health
-image: "https://images.pexels.com/photos/5008383/pexels-photo-5008383.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+thumb: "https://images.pexels.com/photos/5008383/pexels-photo-5008383.jpeg?auto=compress&cs=tinysrgb&w=350"
+image: "https://images.pexels.com/photos/5008383/pexels-photo-5008383.jpeg?auto=compress&cs=tinysrgb&w=600"
 source: EdSurge
 source_url: https://www.edsurge.com/news/2022-02-21-educators-are-disengaged-and-distracted-better-workplace-culture-could-win-them-back
 ---

@@ -3,7 +3,8 @@ title: "Counselors Not Part Of One California District's Plan to Tackle Student 
 category: Ahyoung_Hwang
 color: c4
 tags: pandemic schools mental-health
-image: "https://images.pexels.com/photos/3978594/pexels-photo-3978594.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+thumb: "https://images.pexels.com/photos/3978594/pexels-photo-3978594.jpeg?auto=compress&cs=tinysrgb&w=350"
+image: "https://images.pexels.com/photos/3978594/pexels-photo-3978594.jpeg?auto=compress&cs=tinysrgb&w=600"
 source: EdSource
 source_url: https://edsource.org/2022/counselors-not-part-of-one-california-districts-plan-to-tackle-student-mental-health/672828
 ---

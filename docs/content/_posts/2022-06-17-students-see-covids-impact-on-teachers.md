@@ -3,7 +3,8 @@ title: "Students See Covid's Impact on Teachers"
 category: Ahyoung_Hwang
 color: c7
 tags: pandemic students teachers
-image: https://images.pexels.com/photos/2173508/pexels-photo-2173508.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+thumb: https://images.pexels.com/photos/2173508/pexels-photo-2173508.jpeg?auto=compress&cs=tinysrgb&w=350
+image: https://images.pexels.com/photos/2173508/pexels-photo-2173508.jpeg?auto=compress&cs=tinysrgb&w=600
 source: Inside Higher Ed
 source_url: https://www.insidehighered.com/news/2022/06/17/impact-covid-college-professors-infographic?v2
 ---

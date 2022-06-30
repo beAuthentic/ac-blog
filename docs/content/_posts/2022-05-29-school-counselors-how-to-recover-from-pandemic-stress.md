@@ -3,7 +3,8 @@ title: "School Counselors on How to Help Students Recover From Pandemic Stress"
 category: Ahyoung_Hwang
 color: c3
 tags: pandemic students mental-health
-image: https://images.pexels.com/photos/3092558/pexels-photo-3092558.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+thumb: https://images.pexels.com/photos/3092558/pexels-photo-3092558.jpeg?auto=compress&cs=tinysrgb&w=350
+image: https://images.pexels.com/photos/3092558/pexels-photo-3092558.jpeg?auto=compress&cs=tinysrgb&w=600
 source: New York Times
 source_url: https://nyti.ms/3aRgNU2
 ---

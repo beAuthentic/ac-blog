@@ -3,7 +3,8 @@ title: "How the Atmosphere of a Classroom Can Change a Student’s Engagement"
 category: Aiden_Sabater
 color: c9
 tags: classroom engagement motivation
-image: https://images.pexels.com/photos/1454360/pexels-photo-1454360.jpeg?cs=srgb&dl=pexels-stanley-morales-1454360.jpg&fm=jpg
+thumb: https://images.pexels.com/photos/1454360/pexels-photo-1454360.jpeg?auto=compress&cs=tinysrgb&w=350
+image: https://images.pexels.com/photos/1454360/pexels-photo-1454360.jpeg?auto=compress&cs=tinysrgb&w=600
 ---
 This article collects “top trends” in higher education that have resulted from the pandemic.
 <!--more-->
