@@ -1,5 +1,5 @@
-remote_theme: beAuthentic/askclass-news-theme
-#theme: askclass-news-theme
+#remote_theme: beAuthentic/askclass-news-theme
+theme: askclass-news-theme
 
 title: "AskClass News"
 description: >
@@ -21,6 +21,7 @@ acn:
   logo:
     image: "logo-icon.svg"
     size: 70
+    height: 70
     alt_image: "logo.svg"
     alt_size: 200
     sizes: [ 48, 96, 144, 192, 300, 512 ]
