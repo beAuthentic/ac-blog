@@ -31,10 +31,10 @@ Having a connection between teachers and students can create an environment wher
     > Create an opportunity that allows students to interact and collaborate with different classmates.
 
 5. Find a way to connection
-    > [AskClass] is an EdTech tool that allows everyone to share their thought, perspective, feeling, etc.
+    > [AskClass] is an EdTech tool that allows everyone to share their thought, opinion, feeling, etc.
 
     > The tool has many game activities and open questions highlighting individual hobbies, interests, goals, etc.
-    
+
 6. A good listener
     > Small talk is necessary to break down the formality and awkward barrier.
 
