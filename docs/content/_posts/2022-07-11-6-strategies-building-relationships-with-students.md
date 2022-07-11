@@ -22,16 +22,20 @@ Having a connection between teachers and students can create an environment wher
 2. Get to know your students
     > Create an environment that allows students to represent themselves through their culture and hobby.
 
+
 3. Present student's work
     > Show the classroom a few of students' best works to make the students feel their works are appreciated.
+
 
     > This practice also motivates and encourages students to work harder.
 
 4. Change seats often
     > Create an opportunity that allows students to interact and collaborate with different classmates.
 
+
 5. Find a way to connection
     > [AskClass] is an EdTech tool that allows everyone to share their thought, opinion, feeling, etc.
+
 
     > The tool has many game activities and open questions highlighting individual hobbies, interests, goals, etc.
 
