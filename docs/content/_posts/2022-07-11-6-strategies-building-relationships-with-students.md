@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "6 strategies for building relationships with students"
+title: "6 Strategies for Building Relationships With Students"
 category: Jane_Tran
 color: c6
 tags: classroom relationship strategy
-image: https://images.pexels.com/photos/6929180/pexels-photo-6929180.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+thumb: https://images.pexels.com/photos/6929180/pexels-photo-6929180.jpeg?auto=compress&cs=tinysrgb&w=350
+image: https://images.pexels.com/photos/6929180/pexels-photo-6929180.jpeg?auto=compress&cs=tinysrgb&w=600
 source: edutopia
 source_url: https://www.edutopia.org/article/6-strategies-building-better-student-relationships
 ---
@@ -17,10 +18,13 @@ Having a connection between teachers and students can create an environment wher
 
     > Getting names correctly shows that the teachers value and respect the students.
 
-    > NEVER give a nickname to a student, UNLESS they want to.
+    > NEVER give a nickname to a student, UNLESS they prefer that.
+
+    > NEVER give call your student by their students' numbers, UNLESS they prefer that.
 
 2. Get to know your students
     > Create an environment that allows students to represent themselves through their culture and hobby.
+
 
 3. Present student's work
     > Show the classroom a few of students' best works to make the students feel their works are appreciated.
@@ -29,6 +33,7 @@ Having a connection between teachers and students can create an environment wher
 
 4. Change seats often
     > Create an opportunity that allows students to interact and collaborate with different classmates.
+
 
 5. Find a way to connection
     > [AskClass] is an EdTech tool that allows everyone to share their thought, opinion, feeling, etc.
