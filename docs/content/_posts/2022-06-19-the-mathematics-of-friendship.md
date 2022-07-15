@@ -2,7 +2,7 @@
 title: "The Mathematics of Friendship"
 color: c8
 category: Andy_Mangal
-tags: friendship classroom
+tags: relationship classroom
 thumb: "https://images.pexels.com/photos/1974927/pexels-photo-1974927.jpeg?auto=compress&cs=tinysrgb&w=350"
 image: "https://images.pexels.com/photos/1974927/pexels-photo-1974927.jpeg?auto=compress&cs=tinysrgb&w=600"
 source: PsychologyToday.com
@@ -12,7 +12,7 @@ This article explains the **four variables** that lead to lasting **friendships*
 <!--more-->
 
 $$
-\displaylines{Proximity \times (Frequency + Duration) \times Intensity \\ = Friendship}
+\displaylines{Proximity \times (Frequency + Duration) \\ \times Intensity = Friendship}
 $$
 
 ## Proximity
