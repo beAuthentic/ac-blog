@@ -12,7 +12,7 @@ This article explains the **four variables** that lead to lasting **friendships*
 <!--more-->
 
 $$
-\displaylines{Proximity \times (Frequency + Duration) \\ \times Intensity = Friendship}
+\displaylines{Proximity \times (Frequency + Duration) \times \\ Intensity = Friendship}
 $$
 
 ## Proximity
