@@ -4,4 +4,4 @@ style: center
 image: "https://i.imgur.com/elQbtvI.jpg"
 ---
 
-Edison is a senior at San Jose State University majoring in Global Operations Management. He looks forward to seeing the expansion of AskClass to vast educational institutions and making new friends in the team along the way.
+Edison is a rising senior at San José State University studying Global Operations Management. He is currently working at AskClass.com as a summer fellow.
