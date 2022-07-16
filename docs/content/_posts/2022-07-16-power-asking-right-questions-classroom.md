@@ -2,7 +2,7 @@
 title: "The Power of Asking The Right Questions In A Classroom"
 category: Edison_Luu
 color: c9
-tags: questions structure engagement
+tags: question strategy engagement
 thumb: https://images.pexels.com/photos/3184317/pexels-photo-3184317.jpeg?auto=compress&cs=tinysrgb&w=350
 image: https://images.pexels.com/photos/3184317/pexels-photo-3184317.jpeg?auto=compress&cs=tinysrgb&w=600
 ---
