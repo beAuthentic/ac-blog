@@ -19,7 +19,7 @@ Struggles are common. Educators can demonstrate progressive support through cons
 ### Apply individual evaluations accordingly ###
 Give individual students the grade they deserve. Although it is a team project, not all students will put in the same quality of work and effort. Techniques for peer [evaluation] can be used by educators to identify which students perform well and which fall short. Educators can better acquire information on how to grade by using tools such as creating [rubrics] at the start and presenting [Typeform] assessment forms at the end. Students will be more inclined to accomplish their work if they understand that they have criteria to reach and that their peers are assessing them.
 
-In today’s world, companies look for candidates with effective collaboration skills. Helping the students understand and helping them collaborate well and effectively is critical in modern education. Being able to create an environment where students learn to work together effectively while making it sustainable for the educators is important. Team projects are here to stay.
+> In today’s world, companies look for candidates with effective collaboration skills. Helping the students understand and helping them collaborate well and effectively is critical in modern education. Being able to create an environment where students learn to work together effectively while making it sustainable for the educators is important. Team projects are here to stay.
 
 
 [AskClass]: https://askclass.com
