@@ -1,6 +1,6 @@
 ---
 title: "It’s Time to Rethink the ‘One Teacher, One Classroom’ Model"
-category: jianwen_wu
+category: Jianwen_Wu
 color: c4
 tags: students teachers classroom pandemic
 thumb: https://i.imgur.com/Q0CYLdw.png?auto=compress&cs=tinysrgb&w=300
