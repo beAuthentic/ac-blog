@@ -3,7 +3,7 @@ title: "Using the opportunity of class silence to build relationship"
 category: Aiden_Sabater
 color: c9
 tags: classroom strategy teachers motivation dynamics
-image: https://images.pexels.com/photos/239548/pexels-photo-239548.jpeg?auto=compress&cs=tinysrgb&w=350
+thumb: https://images.pexels.com/photos/239548/pexels-photo-239548.jpeg?auto=compress&cs=tinysrgb&w=350
 image: https://images.pexels.com/photos/239548/pexels-photo-239548.jpeg?auto=compress&cs=tinysrgb&w=600
 ---
 Professors can use awkward silence to better equip students with more social skills
