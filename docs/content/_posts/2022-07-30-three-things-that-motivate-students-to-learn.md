@@ -3,8 +3,8 @@ title: "Three Things that Motivate Students to Learn"
 category: Aiden_Sabater
 color: c9
 tags: classroom strategy teachers motivation dynamics
-thumb: https://images.pexels.com/photos/3761509/pexels-photo-3761509.jpeg?auto=compress&cs=tinysrgb&w=350
-image: https://images.pexels.com/photos/3761509/pexels-photo-3761509.jpeg?auto=compress&cs=tinysrgb&w=600
+thumb: https://images.pexels.com/photos/2740956/pexels-photo-2740956.jpeg?auto=compress&cs=tinysrgb&w=350
+image: https://images.pexels.com/photos/2740956/pexels-photo-2740956.jpeg?auto=compress&cs=tinysrgb&w=600
 ---
 “No significant learning occurs without a significant relationship” 
 -James Comer 
