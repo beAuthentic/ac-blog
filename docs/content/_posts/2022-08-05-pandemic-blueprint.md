@@ -2,7 +2,7 @@
 title: "A Post Pandemic Blueprint For Welcoming Students Back To School"
 category: Edison_Luu
 color: c9
-tags: classroom strategy 
+tags: education strategy pandemic 
 thumb: https://images.pexels.com/photos/2831794/pexels-photo-2831794.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
 image: https://images.pexels.com/photos/2831794/pexels-photo-2831794.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2 
 ---
