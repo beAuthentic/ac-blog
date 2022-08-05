@@ -2,7 +2,7 @@
 title: "Modern Educational Tools Needed In Every Classroom"
 category: Edison_Luu
 color: c9
-tags: Ed tech tools
+tags: Edtech engagement education
 thumb: https://images.pexels.com/photos/355952/pexels-photo-355952.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
 image: https://images.pexels.com/photos/355952/pexels-photo-355952.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2 
 ---
