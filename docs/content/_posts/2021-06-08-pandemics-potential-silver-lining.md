@@ -1,5 +1,5 @@
 ---
-title: “The Pandemic’s Potential Silver Lining for Kids”
+title: "The Pandemic’s Potential Silver Lining for Kids"
 color: c3
 category: Ahyoung_Hwang
 tags: pandemic students 

@@ -1,7 +1,7 @@
 ---
 title: "Higher Ed's Hiring Woes"
 color: c4
-category: Ahyoung_Hwang 
+category: Ahyoung_Hwang
 tags: education schools teachers
 thumb: https://images.pexels.com/photos/5699475/pexels-photo-5699475.jpeg?auto=compress&cs=tinysrgb&w=350
 image: https://images.pexels.com/photos/5699475/pexels-photo-5699475.jpeg?auto=compress&cs=tinysrgb&w=600

@@ -1,5 +1,5 @@
 ---
-title: “Schools Are Tackling Mental Health This Summer”
+title: "Schools Are Tackling Mental Health This Summer"
 color: c3
 category: Ahyoung_Hwang
 tags: schools mental-health

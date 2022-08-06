@@ -4,7 +4,7 @@ color: c1
 category: Ahyoung_Hwang
 tags: connections pandemic
 thumb: https://images.pexels.com/photos/1049317/pexels-photo-1049317.jpeg?auto=compress&cs=tinysrgb&w=350
-imaage: https://images.pexels.com/photos/1049317/pexels-photo-1049317.jpeg?auto=compress&cs=tinysrgb&w=600
+image: https://images.pexels.com/photos/1049317/pexels-photo-1049317.jpeg?auto=compress&cs=tinysrgb&w=600
 source: New York Times
 source_url: https://www.nytimes.com/2021/01/23/at-home/find-and-keep-new-friends.html?action=click&pgtype=Article&state=default&module=styln-friendship&variant=show&region=BELOW_MAIN_CONTENT&block=storyline_flex_guide_recirc
 ---

@@ -1,8 +1,8 @@
 ---
-title: “High School Students Say They Learn The Most Important Skills Outside of School”
+title: "High School Students Say They Learn The Most Important Skills Outside of School"
 color: c1
 category: Ahyoung_Hwang
-tags: high-school students 
+tags: high-school students
 thumb: https://images.pexels.com/photos/3811830/pexels-photo-3811830.jpeg?auto=compress&cs=tinysrgb&w=350
 Image: https://images.pexels.com/photos/3811830/pexels-photo-3811830.jpeg?auto=compress&cs=tinysrgb&w=600
 source: EdSurge

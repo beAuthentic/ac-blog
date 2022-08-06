@@ -1,5 +1,5 @@
 ---
-title: “Classroom Time Isn't the Only Thing Students Have Lost”
+title: "Classroom Time Isn't the Only Thing Students Have Lost"
 color: c5
 category: Ahyoung_Hwang
 tags: online-learning schools students
