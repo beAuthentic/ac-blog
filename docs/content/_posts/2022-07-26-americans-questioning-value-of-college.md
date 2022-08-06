@@ -6,9 +6,8 @@ tags: college students
 thumb: https://images.pexels.com/photos/2513993/pexels-photo-2513993.jpeg?auto=compress&cs=tinysrgb&w=350
 Image: https://images.pexels.com/photos/2513993/pexels-photo-2513993.jpeg?auto=compress&cs=tinysrgb&w=600
 source: NPR
-source_url: https://www.npr.org/2022/07/26/1113816868/more-americans-are-questioning-whether-college-has-a-positive-impact 
+source_url: https://www.npr.org/2022/07/26/1113816868/more-americans-are-questioning-whether-college-has-a-positive-impact
 ---
-
 College education's percieved value is dropping compared to the past few years.
 <!--more-->
 

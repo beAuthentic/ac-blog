@@ -2,7 +2,7 @@
 title: "The Pandemic’s Potential Silver Lining for Kids"
 color: c3
 category: Ahyoung_Hwang
-tags: pandemic students 
+tags: pandemic students
 thumb: https://images.pexels.com/photos/8499486/pexels-photo-8499486.jpeg?auto=compress&cs=tinysrgb&w=350
 Image: https://images.pexels.com/photos/8499486/pexels-photo-8499486.jpeg?auto=compress&cs=tinysrgb&w=600
 source: The Atlantic

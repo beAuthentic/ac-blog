@@ -8,7 +8,6 @@ Image: https://images.pexels.com/photos/3755755/pexels-photo-3755755.jpeg?auto=c
 source: NPR
 source_url: https://www.npr.org/2022/06/22/1105970186/pandemic-learning-loss-findings
 ---
-
 This article outlines six things that we’ve learned about how the pandemic affected learning.
 <!--more-->
 

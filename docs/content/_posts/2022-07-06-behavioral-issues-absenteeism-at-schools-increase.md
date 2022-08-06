@@ -8,7 +8,6 @@ image: https://images.pexels.com/photos/256395/pexels-photo-256395.jpeg?auto=com
 source: The Washington Post
 source_url: https://www.washingtonpost.com/education/2022/07/05/absenteeism-behavioral-issues-pandemic-data/
 ---
-
 The pandemic has taken a toll on student behavior and social-emotional development.
 <!--more-->
 
