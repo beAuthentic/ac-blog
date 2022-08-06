@@ -1,0 +1,25 @@
+---
+title: "What students miss from online learning"
+category: Aiden_Sabater
+color: c9
+tags: classroom strategy teachers motivation dynamics
+thumb: https://images.pexels.com/photos/4145190/pexels-photo-4145190.jpeg?auto=compress&cs=tinysrgb&w=350
+image: https://images.pexels.com/photos/4145190/pexels-photo-4145190.jpeg?auto=compress&cs=tinysrgb&w=600
+---
+The downsides of virtual learning and what educators can do to avoid these problems
+
+<!--more-->
+
+Tech companies have shifted our communication behaviors from human interactions to the interaction with content. Many choosing to use computer mediated communication as their primary way to communicate, even within their education. Schools are increasingly adopting digital learning tools. As students continue attending Zoom university, the opportunity to be social is dwindling away, leaving a social gap. Schools should be intentional in teaching students how to listen and interact with people, especially if they continue online learning. 
+
+Online and digital teaching methods have become popular amongst colleges all over the world due to COVID-19. Many had to adjust to the new learning environment, whether they wanted to or not. As we approach a hybrid learning environment, we have been made aware of the upsides and downsides. 
+There are many upsides of having digital classrooms and computer mediated communications. Teachers and students are now granted more flexibility due to online learning as opposed to in person classes. They can now communicate regardless of location and time. They do not need to be restricted to the classroom to talk to their peers. Instead, they can now talk with their peers at a relative's house at midnight. The digital classroom also offers flexibility with recorded lectures and asynchronous learning. Allowing students the flexibility to work full time or fulfill their needs as a parent. While the digital classroom has its perks, it also has its downsides.
+
+With 5 years of college experience under my belt, I have witnessed the downsides of computer mediated communication and digital learning. This is particularly alarming to me as I think society has shifted as a result of these communication methods. Computer mediated communication lacks the ability to express emotion. That is why people tend to exaggerate their emotions and use emoticons over digital communication. On the receiving end, it can also be a struggle to convey the emotion of a message. Computer mediated communication does not allow for real time feedback with visual cues. These types of communications can include discussion boards, text messages, and blog posts. Having to rely on this mode of communication can lead to misunderstandings of missed emotions and meaning behind their words. Lastly, this type of communication deprives the opportunity to practice listening. We have learned to interact with content instead of people, which has negatively impacted our socialization skills. People are used to talking through the screen and not receiving any direct consequences. It can become a problem if these behaviors transfer to real life.
+
+Today's college student have had half of their higher education online. Students become used to the day-to-day computer mediated communication you have. As I reflect on the modes of communication I have relied on throughout my collegiate journey, 90% of my communication is computer-mediated communication. I have used discord as a means to communicate and facilitate with the community I have built and grown with. Discord is a great way for my club to host panelists and communicate at any time. Due to this, these interactions with club peers never made it past a computer screen until recently. As I finally met the cabinet members of the various clubs I am a part of, I can feel the effects of using computer mediated communication for so long. 
+
+Having used computer-mediated communication as my primary way to communicate with multiple school clubs, classmates, and friends, you begin to match a profile picture to a person. As I began to meet everybody in person, it felt like I was meeting new people even though I had already interacted with them. I am now able to match the voice to a real person that expresses their emotion through their fashion and enthusiasm. There now becomes a joy to meet people in real life that computer-mediated communication cannot supply. 
+
+College has always been a place to encourage growth. Many look to college as a place to learn how to become a young adult, not a place to become complacent in their own ways. Online learning has hindered human interactions within the classroom. As schools continue to adopt more online and digital teaching methods, the consequences are ultimately felt by students. The repercussions are that students feel challenged to learn communication skills, express emotions, have appropriate listening and response skills. In the world of technology, students are encouraged to interact with content rather than peers. Schools should seriously consider how students learn and practice interacting with one another.
+
