@@ -4,7 +4,7 @@ color: c1
 category: Ahyoung_Hwang
 tags: high-school students
 thumb: https://images.pexels.com/photos/3811830/pexels-photo-3811830.jpeg?auto=compress&cs=tinysrgb&w=350
-Image: https://images.pexels.com/photos/3811830/pexels-photo-3811830.jpeg?auto=compress&cs=tinysrgb&w=600
+image: https://images.pexels.com/photos/3811830/pexels-photo-3811830.jpeg?auto=compress&cs=tinysrgb&w=600
 source: EdSurge
 source_url: https://www.edsurge.com/news/2022-07-05-high-school-students-say-they-learn-the-most-important-skills-outside-of-school
 ---

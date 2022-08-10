@@ -4,7 +4,7 @@ color: c3
 category: Ahyoung_Hwang
 tags: schools mental-health
 thumb: https://images.pexels.com/photos/4101137/pexels-photo-4101137.jpeg?auto=compress&cs=tinysrgb&w=350
-Image: https://images.pexels.com/photos/4101137/pexels-photo-4101137.jpeg?auto=compress&cs=tinysrgb&w=600
+image: https://images.pexels.com/photos/4101137/pexels-photo-4101137.jpeg?auto=compress&cs=tinysrgb&w=600
 source: Wall Street Journal
 source_url: https://www.wsj.com/articles/schools-are-tackling-mental-health-this-summer-11657202401
 ---

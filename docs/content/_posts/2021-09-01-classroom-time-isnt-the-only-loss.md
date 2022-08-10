@@ -4,7 +4,7 @@ color: c5
 category: Ahyoung_Hwang
 tags: online-learning schools students
 thumb: https://images.pexels.com/photos/6609468/pexels-photo-6609468.jpeg?auto=compress&cs=tinysrgb&w=350
-Image: https://images.pexels.com/photos/6609468/pexels-photo-6609468.jpeg?auto=compress&cs=tinysrgb&w=600
+image: https://images.pexels.com/photos/6609468/pexels-photo-6609468.jpeg?auto=compress&cs=tinysrgb&w=600
 source: The Atlantic
 source_url: https://www.theatlantic.com/ideas/archive/2021/09/school-learning-loss-trauma-death/619970/
 ---

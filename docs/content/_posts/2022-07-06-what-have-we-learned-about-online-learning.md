@@ -4,7 +4,7 @@ color: c2
 category: Ahyoung_Hwang
 tags: online-learning students
 thumb: https://images.pexels.com/photos/7283630/pexels-photo-7283630.jpeg?auto=compress&cs=tinysrgb&w=350
-Image: https://images.pexels.com/photos/7283630/pexels-photo-7283630.jpeg?auto=compress&cs=tinysrgb&w=600
+image: https://images.pexels.com/photos/7283630/pexels-photo-7283630.jpeg?auto=compress&cs=tinysrgb&w=600
 source: Inside Higher Ed
 source_url: https://www.insidehighered.com/news/2022/07/06/what-have-we-learned-about-online-learning
 ---

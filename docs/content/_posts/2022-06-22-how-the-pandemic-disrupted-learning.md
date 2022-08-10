@@ -4,7 +4,7 @@ color: c4
 category: Ahyoung_Hwang
 tags: pandemic learning students
 thumb: https://images.pexels.com/photos/3755755/pexels-photo-3755755.jpeg?auto=compress&cs=tinysrgb&w=350
-Image: https://images.pexels.com/photos/3755755/pexels-photo-3755755.jpeg?auto=compress&cs=tinysrgb&w=600
+image: https://images.pexels.com/photos/3755755/pexels-photo-3755755.jpeg?auto=compress&cs=tinysrgb&w=600
 source: NPR
 source_url: https://www.npr.org/2022/06/22/1105970186/pandemic-learning-loss-findings
 ---

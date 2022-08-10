@@ -4,7 +4,7 @@ color: c3
 category: Ahyoung_Hwang
 tags: pandemic students
 thumb: https://images.pexels.com/photos/8499486/pexels-photo-8499486.jpeg?auto=compress&cs=tinysrgb&w=350
-Image: https://images.pexels.com/photos/8499486/pexels-photo-8499486.jpeg?auto=compress&cs=tinysrgb&w=600
+image: https://images.pexels.com/photos/8499486/pexels-photo-8499486.jpeg?auto=compress&cs=tinysrgb&w=600
 source: The Atlantic
 source_url: https://www.theatlantic.com/education/archive/2021/06/homeroom-will-pandemic-make-kids-more-resilient/619124/
 ---
