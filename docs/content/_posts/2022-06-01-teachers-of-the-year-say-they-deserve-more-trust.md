@@ -2,7 +2,7 @@
 title: "Teachers of the Year Say Educators Deserve More Trust"
 category: Ahyoung_Hwang
 color: c2
-tags: teachers classrooms 
+tags: teachers classroom
 thumb: https://images.pexels.com/photos/6936068/pexels-photo-6936068.jpeg?auto=compress&cs=tinysrgb&w=350
 image: https://images.pexels.com/photos/6936068/pexels-photo-6936068.jpeg?auto=compress&cs=tinysrgb&w=500
 source: EdSurge

@@ -2,7 +2,7 @@
 title: "What Have We Learned About Online Learning?"
 color: c2
 category: Ahyoung_Hwang
-tags: online-learning students
+tags: online-learning students learning pandemic strategy
 thumb: https://images.pexels.com/photos/7283630/pexels-photo-7283630.jpeg?auto=compress&cs=tinysrgb&w=350
 image: https://images.pexels.com/photos/7283630/pexels-photo-7283630.jpeg?auto=compress&cs=tinysrgb&w=600
 source: Inside Higher Ed

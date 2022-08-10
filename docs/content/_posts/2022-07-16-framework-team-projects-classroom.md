@@ -2,7 +2,7 @@
 title: "A Practical Framework for Team Projects in Classrooms"
 category: Edison_Luu
 color: c9
-tags: teamwork classroom
+tags: classroom engagement strategy dynamics
 thumb: https://images.pexels.com/photos/6913339/pexels-photo-6913339.jpeg?auto=compress&cs=tinysrgb&w=350
 image: https://images.pexels.com/photos/6913339/pexels-photo-6913339.jpeg?auto=compress&cs=tinysrgb&w=600
 ---

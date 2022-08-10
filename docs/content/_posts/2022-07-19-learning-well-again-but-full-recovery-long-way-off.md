@@ -2,7 +2,7 @@
 title: "Students Are Learning Well Again. But Full Recovery? That’s a Long Way Off."
 color: c2
 category: Ahyoung_Hwang
-tags: students pandemic
+tags: students pandemic learning education
 thumb: https://images.pexels.com/photos/8423133/pexels-photo-8423133.jpeg?auto=compress&cs=tinysrgb&w=350
 image: https://images.pexels.com/photos/8423133/pexels-photo-8423133.jpeg?auto=compress&cs=tinysrgb&w=600
 source: New York Times

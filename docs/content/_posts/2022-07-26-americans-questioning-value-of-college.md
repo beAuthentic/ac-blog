@@ -2,7 +2,7 @@
 title: "A Growing Number of Americans Are Questioning the Value of Going To College"
 color: c6
 category: Ahyoung_Hwang
-tags: college students
+tags: colleges students
 thumb: https://images.pexels.com/photos/2513993/pexels-photo-2513993.jpeg?auto=compress&cs=tinysrgb&w=350
 image: https://images.pexels.com/photos/2513993/pexels-photo-2513993.jpeg?auto=compress&cs=tinysrgb&w=600
 source: NPR

@@ -2,7 +2,7 @@
 title: "6 Things We've Learned About How the Pandemic Disrupted Learning"
 color: c4
 category: Ahyoung_Hwang
-tags: pandemic learning students
+tags: pandemic learning students online-learning
 thumb: https://images.pexels.com/photos/3755755/pexels-photo-3755755.jpeg?auto=compress&cs=tinysrgb&w=350
 image: https://images.pexels.com/photos/3755755/pexels-photo-3755755.jpeg?auto=compress&cs=tinysrgb&w=600
 source: NPR

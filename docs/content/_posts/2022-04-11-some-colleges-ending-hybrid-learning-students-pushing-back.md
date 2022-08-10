@@ -2,13 +2,12 @@
 title: "Some Colleges Are Ending Hybrid Learning. Students Are Pushing Back."
 category: Ahyoung_Hwang
 color: c2
-tags: online-learning students
+tags: online-learning students learning pandemic mental-health schools
 thumb: https://images.pexels.com/photos/8423117/pexels-photo-8423117.jpeg?auto=compress&cs=tinysrgb&w=350
 image: https://images.pexels.com/photos/8423117/pexels-photo-8423117.jpeg?auto=compress&cs=tinysrgb&w=600
 source: The Chronicle of Higher Education
-source_url: https://www.chronicle.com/article/some-colleges-are-ending-hybrid-learning-students-are-pushing-back?cid2=gen_login_refresh&cid=gen_sign_in 
+source_url: https://www.chronicle.com/article/some-colleges-are-ending-hybrid-learning-students-are-pushing-back?cid2=gen_login_refresh&cid=gen_sign_in
 ---
-
 After the pandemic, schools and students have different opinions on whether they should return to campus.
 <!--more-->
 

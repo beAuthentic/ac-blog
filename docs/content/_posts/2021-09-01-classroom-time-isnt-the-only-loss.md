@@ -2,7 +2,7 @@
 title: "Classroom Time Isn't the Only Thing Students Have Lost"
 color: c5
 category: Ahyoung_Hwang
-tags: online-learning schools students
+tags: online-learning schools students learning
 thumb: https://images.pexels.com/photos/6609468/pexels-photo-6609468.jpeg?auto=compress&cs=tinysrgb&w=350
 image: https://images.pexels.com/photos/6609468/pexels-photo-6609468.jpeg?auto=compress&cs=tinysrgb&w=600
 source: The Atlantic
