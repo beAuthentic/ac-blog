@@ -2,7 +2,7 @@
 title: "Engaging Students on the First Day and Every Day"
 category: Lam_Tran
 color: c3
-tags: engagement
+tags: engagement strategy classroom
 thumb: https://images.pexels.com/photos/5676744/pexels-photo-5676744.jpeg?auto=compress&cs=tinysrgb&w=350
 image: https://images.pexels.com/photos/5676744/pexels-photo-5676744.jpeg?auto=compress&cs=tinysrgb&w=600
 source: edutopia

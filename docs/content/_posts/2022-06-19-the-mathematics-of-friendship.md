@@ -2,7 +2,7 @@
 title: "The Mathematics of Friendship"
 color: c8
 category: Andy_Mangal
-tags: relationship classroom
+tags: relationship classroom friendships
 thumb: "https://images.pexels.com/photos/1974927/pexels-photo-1974927.jpeg?auto=compress&cs=tinysrgb&w=350"
 image: "https://images.pexels.com/photos/1974927/pexels-photo-1974927.jpeg?auto=compress&cs=tinysrgb&w=600"
 source: PsychologyToday.com

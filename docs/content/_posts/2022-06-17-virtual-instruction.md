@@ -2,7 +2,7 @@
 title : "Virtual Instruction Is Here to Stay"
 color: c1
 category: Lam_Tran
-tags: edtech educators
+tags: edtech educators online-learning learning classroom
 thumb: "https://images.pexels.com/photos/5212337/pexels-photo-5212337.jpeg?auto=compress&cs=tinysrgb&w=350"
 image: "https://images.pexels.com/photos/5212337/pexels-photo-5212337.jpeg?auto=compress&cs=tinysrgb&w=600"
 source: EducationWeek

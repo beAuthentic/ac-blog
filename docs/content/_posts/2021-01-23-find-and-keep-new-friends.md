@@ -2,7 +2,7 @@
 title: "Find and Keep New Friends"
 color: c1
 category: Ahyoung_Hwang
-tags: connections pandemic
+tags: connections pandemic friendships
 thumb: https://images.pexels.com/photos/1049317/pexels-photo-1049317.jpeg?auto=compress&cs=tinysrgb&w=350
 image: https://images.pexels.com/photos/1049317/pexels-photo-1049317.jpeg?auto=compress&cs=tinysrgb&w=600
 source: New York Times
