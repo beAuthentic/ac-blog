@@ -1,5 +1,5 @@
 ---
-title: "A Growing Number of Americans Are Questioning the Value of Going To College"
+title: "A Growing Number of Americans Are Questioning the Value of Going to College"
 color: c6
 category: Ahyoung_Hwang
 tags: colleges students

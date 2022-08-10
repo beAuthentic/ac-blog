@@ -1,5 +1,5 @@
 ---
-title: "A Glimpse Into A Freshman Pandemic Year"
+title: "A Glimpse into a Freshman Pandemic Year"
 category: Jianwen_Wu
 color: c10
 tags: pandemic schools mental-health students colleges

@@ -1,5 +1,5 @@
 ---
-title: "Reestablishing The Importance Of Names"
+title: "Reestablishing the Importance of Names"
 category: Edison_Luu
 color: c9
 tags: education relationship

@@ -1,5 +1,5 @@
 ---
-title: "The Power of Asking The Right Questions In A Classroom"
+title: "The Power of Asking The Right Questions in a Classroom"
 category: Edison_Luu
 color: c9
 tags: questions strategy engagement

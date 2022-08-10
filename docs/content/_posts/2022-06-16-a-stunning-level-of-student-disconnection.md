@@ -1,5 +1,5 @@
 ---
-title: "A Look Into Student Disengagement"
+title: "A Look into Student Disengagement"
 category: Nathan_Wong
 color: c2
 tags: pandemic schools mental-health engagement

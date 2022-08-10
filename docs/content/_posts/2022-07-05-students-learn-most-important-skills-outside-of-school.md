@@ -1,5 +1,5 @@
 ---
-title: "High School Students Say They Learn The Most Important Skills Outside of School"
+title: "High School Students Say They Learn the Most Important Skills outside of School"
 color: c1
 category: Ahyoung_Hwang
 tags: high-school students

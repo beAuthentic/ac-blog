@@ -1,5 +1,5 @@
 ---
-title: "School's Out For the Summer and Many Teachers Are Calling It Quits"
+title: "School’s Out for the Summer and Many Teachers Are Calling It Quits"
 category: Ahyoung_Hwang
 color: c1
 tags: pandemic teachers

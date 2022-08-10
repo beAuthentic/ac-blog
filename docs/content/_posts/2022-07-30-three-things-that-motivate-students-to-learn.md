@@ -1,5 +1,5 @@
 ---
-title: "Three Things that Motivate Students to Learn"
+title: "Three Things That Motivate Students to Learn"
 category: Aiden_Sabater
 color: c9
 tags: classroom strategy teachers motivation dynamics

@@ -1,5 +1,5 @@
 ---
-title: "Is college just an education to incoming students?"
+title: "Is College Just an Education to Incoming Students?"
 category: Aiden_Sabater
 color: c9
 tags: classroom strategy teachers motivation dynamics

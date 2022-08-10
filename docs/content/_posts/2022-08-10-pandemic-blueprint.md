@@ -1,5 +1,5 @@
 ---
-title: "A Post Pandemic Blueprint For Welcoming Students Back To School"
+title: "A Post Pandemic Blueprint for Welcoming Students Back to School"
 category: Edison_Luu
 color: c9
 tags: education strategy pandemic 

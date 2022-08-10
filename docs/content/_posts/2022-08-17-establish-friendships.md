@@ -1,5 +1,5 @@
 ---
-title: "Establish Friendships With Intentionality"
+title: "Establish Friendships with Intentionality"
 category: Edison_Luu
 color: c9
 tags: relationship education social

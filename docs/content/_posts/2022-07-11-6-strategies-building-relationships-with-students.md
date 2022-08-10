@@ -1,5 +1,5 @@
 ---
-title: "Six Strategies for Building Relationships With Students"
+title: "Six Strategies for Building Relationships with Students"
 category: Jane_Tran
 color: c6
 tags: classroom relationship strategy

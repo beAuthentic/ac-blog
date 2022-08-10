@@ -1,5 +1,5 @@
 ---
-title: "Using the opportunity of class silence to build relationship"
+title: "Using the Opportunity of Class Silence to Build Relationship"
 category: Aiden_Sabater
 color: c9
 tags: classroom strategy teachers motivation dynamics

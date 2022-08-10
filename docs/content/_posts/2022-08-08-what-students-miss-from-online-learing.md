@@ -1,5 +1,5 @@
 ---
-title: "What students miss from online learning"
+title: "What Students Miss from Online Learning"
 category: Aiden_Sabater
 color: c9
 tags: classroom strategy teachers motivation dynamics

@@ -1,5 +1,5 @@
 ---
-title: "6 Things We've Learned About How the Pandemic Disrupted Learning"
+title: "6 Things We’ve Learned about How the Pandemic Disrupted Learning"
 color: c4
 category: Ahyoung_Hwang
 tags: pandemic learning students online-learning
