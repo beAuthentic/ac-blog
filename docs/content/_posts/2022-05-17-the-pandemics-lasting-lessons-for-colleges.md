@@ -1,5 +1,5 @@
 ---
-title: "The Pandemic's Lasting Lessons for Colleges, From Academic Innovation Leaders"
+title: "The Pandemic’s Lasting Lessons for Colleges, from Academic Innovation Leaders"
 category: Ahyoung_Hwang
 color: c2
 tags: pandemic educators classroom students

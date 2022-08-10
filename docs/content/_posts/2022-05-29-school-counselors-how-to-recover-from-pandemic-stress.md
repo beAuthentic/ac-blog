@@ -1,5 +1,5 @@
 ---
-title: "School Counselors on How to Help Students Recover From Pandemic Stress"
+title: "School Counselors on How to Help Students Recover from Pandemic Stress"
 category: Ahyoung_Hwang
 color: c3
 tags: pandemic students mental-health

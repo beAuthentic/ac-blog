@@ -1,5 +1,5 @@
 ---
-title: "Counselors Not Part Of One California District's Plan to Tackle Student Mental Health"
+title: "Counselors Not Part of One California District’s Plan to Tackle Student Mental Health"
 category: Ahyoung_Hwang
 color: c4
 tags: pandemic schools mental-health
