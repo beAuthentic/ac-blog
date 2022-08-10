@@ -1,5 +1,5 @@
 ---
-title: "Missing Support: Students, Psychologists Say Existing Mental Health Resources aren't Enough"
+title: "Missing Support: Students, Psychologists Say Existing Mental Health Resources Aren't Enough"
 color: c6
 category: Ahyoung_Hwang
 tags: mental-health students
